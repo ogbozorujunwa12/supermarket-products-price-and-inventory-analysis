@@ -8,8 +8,8 @@ This project analyzes 1,066 supermarket product records to understand pricing an
 
 The analysis includes:
 
-Product price analysis
-Inventory/stock analysis
+.Product price analysis
+.Inventory/stock analysis
 Cheapest products
 Most expensive products
 Highest stock products
