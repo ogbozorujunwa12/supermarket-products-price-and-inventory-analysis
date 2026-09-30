@@ -73,3 +73,29 @@ The analysis includes:
 
 **Ogbozor Monica Ujunwa** — Aspiring Data Analyst
 
+---
+
+## Dashboard Preview
+
+![Full Dashboard](dashboard_full.png)
+
+---
+
+## Charts
+
+### 10 Cheapest Products
+
+![10 Cheapest Products](Cheapest_10.png)
+
+### 10 Most Expensive Products
+
+![10 Most Expensive Products](most_expensive_10.png)
+
+### 10 Products With Highest Stock
+
+![10 Highest Stock](highest_stock_10.png)
+
+### 10 Products With Lowest Stock
+
+![10 Lowest Stock](lowest_stock_10.png)
+
