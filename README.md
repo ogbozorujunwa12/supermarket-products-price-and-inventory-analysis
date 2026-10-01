@@ -95,7 +95,7 @@ The analysis includes:
 
 ![10 Highest Stock](highest_stock_10.png)
 
-### 10 Products With Lowest Stock
 
-![10 Lowest Stock](lowest_stock_10.png)
+
+
 
